@@ -1,5 +1,6 @@
 **Hey!** I'm Squid 🦑 btw.
 
-I enjoy coding 🖱 in Javascript/Node.js, HTML & CSS 🖥, Java, and Python 🐍! 
+Codes In ~ C++/C/C# 🇨, Java ☕, Python 🐍
+Can Code In ~ Javascript/Node.js 🖱, HTML/CSS 🖥 (Rusty though), Go 💙
 
-I also like Naruto 🐱‍👤 & Valorant 🔫.
+Also Enjoy Engineering (Raspberry Pi 🥧/Arduino)
