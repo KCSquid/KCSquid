@@ -1,7 +1,5 @@
-**Hey!** I'm Squid 🦑 btw.
+**Hey!** I'm KCSquid 🦑
 
-I [Actively] Code In ~ C/C#/C++ 🇨, Java ☕, Python 🐍
-Can Code [Well/Decent] In ~ Go 💙, Javascript/Node.js 🖱, HTML/CSS 🖥
-Learning/Can Code a Little ~ Rust ⚙️
+From tinkering with Scratch in grade 2, to Python scripts, C++ experiments, and now building for the web, I've always been curious about how things work, and even more excited to make them work differently.
 
-Also Enjoy Engineering (Raspberry Pi 🥧/Arduino)
+Visit [my website](https://kcsquid.xyz) to learn more about me.
